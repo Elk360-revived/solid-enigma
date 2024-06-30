@@ -1,5 +1,5 @@
 # Security Policy
-
+This section is blank for an indefinite amount of time
 ## Supported Versions
 
 
