@@ -1,5 +1,5 @@
 def hasaccount:
- [api.services.get.hasaccount]
+ [hasaccount.api.services.get]
 
 
 
