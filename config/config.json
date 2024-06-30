@@ -1,1 +1,7 @@
-{}
+def hasaccount:
+ [api.services.hasaccount]
+
+
+
+{hasaccount=true}
+
