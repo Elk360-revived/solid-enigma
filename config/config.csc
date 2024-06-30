@@ -1,7 +1,8 @@
 def hasaccount:
- [hasaccount.api.services.get]
+ [hasaccount.api.services.get],
+ [istrue?]
 
 
 
-{hasaccount=true}
+{hasaccount=result}
 
